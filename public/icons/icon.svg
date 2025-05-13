@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#e91e63"/>
+  
+  <!-- School building icon -->
+  <path d="M256 60L50 180v20h30v252h352V200h30v-20L256 60zm-146 170h60v60h-60v-60zm0 92h60v60h-60v-60zm92-92h60v60h-60v-60zm0 92h60v60h-60v-60zm92-92h60v60h-60v-60zm0 92h60v60h-60v-60zm92-92h60v60h-60v-60zm0 92h60v60h-60v-60z" fill="white"/>
+</svg>
